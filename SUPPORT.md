@@ -6,3 +6,5 @@ Consider some of these resources:
 -   Join [GitHub Discussions](https://github.com/Seagate/cortx-motr/discussions) to ask, answer, and discuss topics with your fellow CORTX contributors! 
 -   If you'd like to contact us directly, drop us a mail at [cortx-questions@seagate.com](mailto:cortx-questions@seagate.com) .
 -   We like to highlight the work and contributions of our community members—if you have solved an interesting challenge, or you are interested in sharing your experience or use cases, we want to talk to you! Please email our Community Manager [rachel.novak@seagate.com](mailto:rachel.novak@seagate.com) or [schedule a meeting with us](https://outlook.office365.com/owa/calendar/CORTXCommunity@seagate.com/bookings/s/x8yMn2ODxUCOdhxvXkH4FA2) to share.
+
+
